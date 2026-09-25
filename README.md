@@ -2,7 +2,7 @@
 
 ## SAS 360 SOLUTIONS - Planning Module
 
-> **Status: canonical.** This is the actively maintained client for the Plan API.
+> **Status: archived.** This repository is a retained historical/archived reference client for the Plan API and is no longer actively developed.
 
 This repository provides Python interfaces for SAS Customer Intelligence 360 Planning APIs.
 
@@ -28,8 +28,8 @@ The Planning module enables programmatic management of marketing plans, campaign
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mnelson3/sas-ci360-sol-planning.git
-   cd sas-ci360-sol-planning
+   git clone https://github.com/mnelson3/sas-ci360-sol-planning-archived.git
+   cd sas-ci360-sol-planning-archived
    ```
 
 2. Install dependencies:
